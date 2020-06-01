@@ -4,7 +4,7 @@ Project Documentation
 
 # About this project:
 
-COVID-Nomics is a data and cartography project that analyzes and visualizes how different communities in and around Los Angeles are impacted by COVID-19. Using a set of indicators to predict risk, COVID-Nomics depicts how certain communities across the LA Metropolitan area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
+COVID-Nomics is a data and cartography project that analyzes and visualizes how different communities in and around Los Angeles are impacted by COVID-19 conducted by the Ong & Associates and UCLA Center for Neighborhood Knowledge (CNK), in partnership with the UCLA Latino Policy & Politics Initiative, the UCLA Ziman Center for Real Estate, and the UCLA Institute on Inequality and Democracy. Using a set of indicators to predict risk, COVID-Nomics depicts how certain communities across the LA Metropolitan area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
 
 ## How it works:
 
@@ -12,7 +12,7 @@ The web map was built using Carto.Js and Leaflet to integrate data stored in the
 
 ### Data storage
 
-The statistical and spatial analysis conducted by the UCLA Center for Neighborhood Knowledge (CNK), in partnership with the UCLA Latino Policy & Politics Initiative, the UCLA Ziman Center for Real Estate, and the UCLA Institute on Inequality and Democracy. The project draws on three geographies (census tracts, ZCTAs, and LA County Department of Public Health Communities ), and is therefore stored in three separate shapefiles: covid_nomics_tracts_v01, covid_nomics_zctas_v01, and lac_covidcases_may14th.
+The statistical and spatial analysis conducted draws on three geographies (census tracts, ZCTAs, and LA County Department of Public Health Communities ), and is therefore stored in three separate shapefiles: covid_nomics_tracts_v01, covid_nomics_zctas_v01, and lac_covidcases_may14th.
 
 Each shapefile was zipped and uploaded to the “uducla” CARTO account as a dataset. Within the CARTO account, the developer turned these datasets into maps in order to do some initial styling using CartoCSS.
 
