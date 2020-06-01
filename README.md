@@ -30,4 +30,4 @@ The following interactive features were added through custom code:
 
 > > Pop-up window: on the default layer (COVID-19 cases), an event listener was added to display the name of the community when the user clicks on a feature).
 
-Troubleshooting: if any development issues arise, feel free to contact the developer, Manon Vergerio, at manonvergerio@gmail.com.
+Troubleshooting: if any development issues arise, feel free to contact the developer, Manon Vergerio, at manonvergerio@gmail.com. General inquiries about the project can be directed to knowledge@luskin.ucla.edu.
