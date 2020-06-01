@@ -4,7 +4,7 @@ Project Documentation
 
 # About this project:
 
-COVID-Nomics is a data and cartography project that analyzes and visualizes how different communities in and around Los Angeles are impacted by COVID-19 by the UCLA Center for Neighborhood Knowledge (CNK), in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative, and the UCLA Ziman Center for Real Estate. Using a set of indicators to predict risk, COVID-Nomics depicts how certain communities across the LA Metropolitan area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
+COVID-Nomics is a data and cartography project that analyzes and visualizes how different communities in and around Los Angeles are impacted by COVID-19 by the UCLA Center for Neighborhood Knowledge (CNK), in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative, and the UCLA Ziman Center for Real Estate. Using a set of indicators to predict risk, COVID-Nomics depicts how certain communities across the Los Angeles County area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship. Visit knowledge.luskin.ucla.edu/news for more information.
 
 ## How it works:
 
