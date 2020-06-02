@@ -1,10 +1,10 @@
-Center for Neighborhood Knowledge
-COVID-Nomics
+[UCLA Center for Neighborhood Knowledge](http://knowledge.luskin.ucla.edu)
+COVID-nomics
 Project Documentation
 
 # About this project:
 
-As part of CNK Director Paul Ong's "covid-nomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting [research briefs](http://knowledge.luskin.ucla.edu/news) shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
+As part of [CNK Director Paul Ong's] (https://knowledge.luskin.ucla.edu/about/team/) "covid-nomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting [research briefs](http://knowledge.luskin.ucla.edu/news) shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
 
 ## How it works:
 
