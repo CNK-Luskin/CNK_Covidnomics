@@ -1,6 +1,6 @@
-*[UCLA Center for Neighborhood Knowledge](http://knowledge.luskin.ucla.edu)&nbsp; 
-*COVID-nomics&nbsp;
-*Project Documentation&nbsp;
+UCLA Center for Neighborhood Knowledge
+COVID-nomics
+Project Documentation&nb
 
 # About this project:
 
