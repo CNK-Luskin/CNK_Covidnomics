@@ -4,41 +4,41 @@ Project Documentation
 
 # About this project:
 
-As part of CNK Director Paul Ong's "covid-nomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting research briefs shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship. The UCLA maprooms are made possible through a grant from mapping platform, Carto.
+As part of CNK Director Paul Ong's "covid-nomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting research briefs shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
 
 ## How it works:
 
 The map includes six different layers:
 
-(1) Covid-19 Cases per 100K (as of May 14, 2020)
-(2) Proportion of Workers at High Risk of Job Displacement
-(3) Proportion of Workers not Covered by Unemployment Insurance
-(40 Proportion of Individuals Unlikely to Receive CARES Act Individual Rebate
-(5) Shelter-in-Place Burden Index
-(6) Renter Vulnerable Neighborhood Index
+#### (1) Covid-19 Cases per 100K (as of May 14, 2020)
+#### (2) Proportion of Workers at High Risk of Job Displacement
+#### (3) Proportion of Workers not Covered by Unemployment Insurance
+#### (4) Proportion of Individuals Unlikely to Receive CARES Act Individual Rebate
+#### (5) Shelter-in-Place Burden Index
+#### (6) Renter Vulnerable Neighborhood Index
 
-The web map was built using Carto.Js and Leaflet to integrate data stored in the “uducla” CARTO account with interactive features built outside of the CARTO environment. The developer used an online programming environment, Glitch.com, to develop the interactive web map.
+The web map was built using Carto.Js and Leaflet to integrate data stored in the “uducla” CARTO account with interactive features built outside of the CARTO environment. The developer used an online programming environment, Glitch.com, to develop the interactive web map. The UCLA maproom on the CNK webiste made possible through a grant from mapping platform, Carto.
 
 ## Data description and sources:
 
-Proportion of Workers at High Risk of Job Displacement
+#### Proportion of Workers at High Risk of Job Displacement
 This layer shows the proportion of workers in sectors that have been particularly hard hit by the closure of businesses due to the outbreak of COVID-19 - sales workers in retailing, service workers in hospitality, and workers in personal care and service occupations.
 
-Proportion of Workers not Covered by Unemployment Insurance
+#### Proportion of Workers not Covered by Unemployment Insurance
 The non-UI coverage layer includes estimates of workers that are excluded from the UI program. This includes low-wage workers and immigrants who do not qualify such as those that are undocumented that are currently prohibited from collecting UI, even though their employers may have contribute payments to the UI funds.
 
-Shelter-in-Place Burden Index
+#### Shelter-in-Place Burden Index
 The SIPB includes three variables that measure the relative difficulty or ease of complying with countywide shelter-in-place mandates: (1) the population density in an area (densely populated neighborhoods increases the odds and frequency of encountering people thereby decreasing the chances of maintaining social distancing); (2) availability of public-park space per person; and, (3) the relative number of households without access to a nearby supermarket.
 
-Proportion of Individuals Unlikely to Receive CARES Act Individual Rebate
+#### Proportion of Individuals Unlikely to Receive CARES Act Individual Rebate
 The layer in the map estimates the proportion of individuals in each neighborhood that are least likely to receive a CARES Act individual rebate. This information is reported at the ZCTA‒level (zip-code tabulation area, as defined by the U.S. Census Bureau) for all of Los Angeles County ZCTAs and estimated using a combination of 2017 IRS Statement of Income data and the 2013‒2017 5-year ACS.
 
-Renter Vulnerable Neighborhood Index
+#### Renter Vulnerable Neighborhood Index
 The Renter Vulnerable Neighborhood Index is a composite of three dimension to identify vulnerable neighborhoods: (1) those with a disproportionate large number of renters on the edge of financial vulnerability due to high housing cost burden; (2) with a disproportionate large number of workers vulnerable to job displacement due to retail and service-sector closures; and (3) with a disproportionate number of people excluded from the federal Coronavirus Aid, Relief and Economic Security Act, known as the CARES Act.
 
 Visit knowledge.luskin.ucla.edu/news to view the research briefs for more information on methodology.
 
-### Data storage
+## Data storage
 
 The statistical and spatial analysis conducted draws on three geographies (census tracts, ZCTAs, and LA County Department of Public Health Communities ), and is therefore stored in three separate shapefiles: covid_nomics_tracts_v01, covid_nomics_zctas_v01, and lac_covidcases_may14th.
 
@@ -46,7 +46,7 @@ Each shapefile was zipped and uploaded to the “uducla” CARTO account as a da
 
 The rest of the webmap was built on an external site outside of the CARTO environment to add and style interactive features. Since the data remains stored in the “uducla” CARTO account, it is imperative to not remove nor rename any of the three datasets mentioned above from the uducla CARTO account in order for the web map to continue being able to pull and visualize data stored in these datasets (covid_nomics_tracts_v01, covid_nomics_zctas_v01, and lac_covidcases_may14th). However, data within each dataset can be added, edited, or removed, and the map will automatically update (ex: adding a row of data, or editing an existing cell).
 
-### Interactivity
+## Interactivity
 
 The following interactive features were added through custom code:
 
