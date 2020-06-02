@@ -4,7 +4,7 @@ Project Documentation
 
 # About this project:
 
-As part of CNK Director Paul Ong's "covidnomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over the last three months by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting research briefs shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
+As part of CNK Director Paul Ong's "covidnomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting research briefs shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
 
 ## How it works:
 
