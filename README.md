@@ -1,5 +1,5 @@
-UCLA Center for Neighborhood Knowledge 
-COVID-nomics 
+UCLA Center for Neighborhood Knowledge <br />
+COVID-nomics <br /> 
 Project Documentation 
 
 # About this project:
