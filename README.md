@@ -4,7 +4,7 @@ Project Documentation
 
 # About this project:
 
-As part of CNK Director Paul Ong's "covid-nomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting research briefs shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
+As part of CNK Director Paul Ong's "covid-nomics" reserch series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted over during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative and the UCLA Ziman Center for Real Estate. The resulting [research briefs](http://knowledge.luskin.ucla.edu/news) shows that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
 
 ## How it works:
 
@@ -17,7 +17,7 @@ The map includes six different layers:
 * Shelter-in-Place Burden Index
 * Renter Vulnerable Neighborhood Index
 
-The web map was built using Carto.Js and Leaflet to integrate data stored in the “uducla” CARTO account with interactive features built outside of the CARTO environment. The developer used an online programming environment, Glitch.com, to develop the interactive web map. The UCLA maproom on the CNK webiste made possible through a grant from mapping platform, Carto.
+The web map was built using Carto.Js and Leaflet to integrate data stored in the “uducla” CARTO account with interactive features built outside of the CARTO environment. The developer used an online programming environment, Glitch.com, to develop the interactive web map. The maproom on the [UCLA CNK webiste](http://knowledge.luskin.ucla.edu/news) is made possible through a grant from mapping platform, Carto.
 
 ## Data description and sources:
 
