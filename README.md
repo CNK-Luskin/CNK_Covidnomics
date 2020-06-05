@@ -4,7 +4,7 @@ Project Documentation
 
 # About this project:
 
-As part of the CNK "covid-nomics" research series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative, the UCLA Ziman Center for Real Estate, and the UCLA Institute on Inequality & Democracy. The resulting [research briefs](http://knowledge.luskin.ucla.edu/news) show that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
+As part of the CNK "covid-nomics" research series, this map room visualizes how different communities in and around Los Angeles County are impacted by COVID-19. The project draws on data and research conducted during the COVID-19 pandemic by the UCLA Center for Neighborhood Knowledge, in partnership with Ong & Associates, the UCLA Latino Policy & Politics Initiative, the UCLA Ziman Center for Real Estate, and the UCLA Luskin Institute on Inequality & Democracy. The resulting [research briefs](http://knowledge.luskin.ucla.edu/news) show that different communities across the Los Angeles area are disproportionately burdened by the epidemic and face greater risks of income insecurity, job displacement, and hardship.
 
 ## How it works:
 
