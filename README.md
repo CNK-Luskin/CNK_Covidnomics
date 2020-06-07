@@ -36,7 +36,7 @@ The layer in the map estimates the proportion of individuals in each neighborhoo
 #### Renter Vulnerable Neighborhood Index
 The Renter Vulnerable Neighborhood Index is a composite of three dimension to identify vulnerable neighborhoods: (1) those with a disproportionate large number of renters on the edge of financial vulnerability due to high housing cost burden; (2) with a disproportionate large number of workers vulnerable to job displacement due to retail and service-sector closures; and (3) with a disproportionate number of people excluded from the federal Coronavirus Aid, Relief and Economic Security Act, known as the CARES Act.
 
-Visit knowledge.luskin.ucla.edu/news to view the research briefs for more information on methodology.
+Visit knowledge.luskin.ucla.edu/news to view the research briefs for more information on methodology and download the full dataset.
 
 ## Data storage
 
